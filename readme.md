@@ -10,7 +10,7 @@ our repo structure will be as follows this repo as the main directive repo that 
 
 - frontend project [shoppingfoo]()
 - simple monolothic backend [monoshopping](https://github.com/mostafaadawy/monoshopping)
-- simple microservices backend version [minsershopping]()
+- simple microservices backend version [minsershopping](https://github.com/mostafaadawy/minsershopping)
 - another microservice backend version [servoshopping]()
 
 tha main objective is to show how ecommerce project is created, how to connvert it to microservice. with every project readme every step will be disscused.
