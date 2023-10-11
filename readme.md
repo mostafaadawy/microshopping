@@ -9,7 +9,7 @@ It is a microservices Ecommerce project it will be build using Express Js for ba
 our repo structure will be as follows this repo as the main directive repo that will contain only this readme, it points to the following:
 
 - frontend project [shoppingfoo]()
-- simple monolothic backend [monoshopping]()
+- simple monolothic backend [monoshopping](https://github.com/mostafaadawy/monoshopping)
 - simple microservices backend version [minsershopping]()
 - another microservice backend version [servoshopping]()
 
